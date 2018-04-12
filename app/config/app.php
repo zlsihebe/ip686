@@ -65,7 +65,7 @@ return array(
     |
     */
 
-    'key' => 'Your App Key Here',
+    'key' => 'bd0Dr2NcG67xdjKsI30qBhaMdPeyEUrr',
 
     /*
     |--------------------------------------------------------------------------

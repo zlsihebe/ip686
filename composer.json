@@ -9,7 +9,9 @@
 		"league/oauth2-client": "dev-master",
 		"intervention/image": "1.5.*",
 		"thomaswelton/laravel-gravatar": "0.0.*",
-		"roumen/sitemap": "2.4.*"
+		"roumen/sitemap": "2.4.*",
+		"guzzlehttp/guzzle": "^6.3",
+		"guzzle/guzzle": "~3.9"
 	},
 	"require-dev" : {
 		"mockery/mockery"         : "dev-master",
