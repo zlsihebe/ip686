@@ -2,11 +2,6 @@
 
 ## Changes I have made
 
-```
-void main() 
-{}
-```
-[this is Jay Chow](https://en.wikipedia.org/wiki/Jay_Chou)
 
 ### Downgrade php7 to php5.6
 
