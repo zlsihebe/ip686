@@ -14,7 +14,7 @@ class TrickForm extends AbstractForm
         'description'   => 'required|min:10',
         'tags'          => 'required',
         'categories'    => 'required',
-        'code'          => 'required'
+        'code'    	=> 'required',
     ];
 
     /**
